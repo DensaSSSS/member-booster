@@ -2,4 +2,5 @@
 showcase: https://www.youtube.com/watch?v=AhA3Gi7iC3U<br>
 discord server: https://discord.gg/VkedeneQ<br>
 
-150 stars for realese
+50 stars for capmonster
+100 stars for AI
